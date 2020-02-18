@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+
+button {
+    /* background-color: #4caf23; */
+    border-radius: 25%;
+    border: none;
+    color:purple;
+    padding : 50px 50px 50px 50px;
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 20px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+ 
+
+.btn1:hover {
+    background-color: rgb(155, 76, 175);
+    color: white;
+  }
+  .btn2:hover {
+    background-color: rgb(175, 129, 76);
+    color: white;
+  }
+  .btn3:hover {
+    background-color: rgb(29, 146, 33);
+    color: white;
+  }
+  .btn4:hover {
+    background-color: rgb(91, 76, 175);
+    color: white;
+  }
+  .btn5:hover {
+    background-color: rgb(175, 76, 145);
+    color: white;
+  }
+  .btn6:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  .btn7:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+.btn7 {
+    opacity: 0.7;
+    cursor: not-allowed;
+}
